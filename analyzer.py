@@ -1,0 +1,1 @@
+class PaperAnalyzer:\n    def analyze(self, paper):\n        return paper
